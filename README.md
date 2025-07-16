@@ -1,1 +1,1 @@
-# myGIFT-IO
+# myGIFT.IO
